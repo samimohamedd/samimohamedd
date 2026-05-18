@@ -120,16 +120,14 @@ me = SamiMohamed()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-samimohamedd-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samimohamedd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Mohamed-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/samimohamedd)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samimohamedd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Mohamed-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/samiimohamed)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samimohamedkorani@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
 
 ⭐️ **Feel free to explore my repositories and drop a star if something interests you!**
 
