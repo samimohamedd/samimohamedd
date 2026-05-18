@@ -1,7 +1,5 @@
 # Hi 👋 I'm Sami Mohamed
-
 ### Computer Science Student at Cairo University
-
 ### Software Development & AI Automation Enthusiast
 
 * 🌱 Currently learning Backend Development, AI Automation, and APIs
@@ -21,11 +19,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samimohamedd&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimohamedd&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samimohamedd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimohamedd&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
