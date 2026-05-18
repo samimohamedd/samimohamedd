@@ -19,9 +19,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samimohamedd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimohamedd&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samimohamedd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimohamedd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -29,12 +28,12 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samimohamedd&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samimohamedd&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/samiimohamed/
-* Email: samimohamedkorani@gmail.com
+* 💼 LinkedIn: [Sami Mohamed](https://www.linkedin.com/in/samiimohamed/)
+* 📧 Email: samimohamedkorani@gmail.com
